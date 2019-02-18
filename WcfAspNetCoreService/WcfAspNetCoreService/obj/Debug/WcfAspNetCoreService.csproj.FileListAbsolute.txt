@@ -1,0 +1,7 @@
+C:\Mod Test\WcfAspNetCoreService\WcfAspNetCoreService\bin\WcfAspNetCoreService.dll.config
+C:\Mod Test\WcfAspNetCoreService\WcfAspNetCoreService\bin\WcfAspNetCoreService.dll
+C:\Mod Test\WcfAspNetCoreService\WcfAspNetCoreService\bin\WcfAspNetCoreService.pdb
+C:\Mod Test\WcfAspNetCoreService\WcfAspNetCoreService\obj\Debug\WcfAspNetCoreService.csprojResolveAssemblyReference.cache
+C:\Mod Test\WcfAspNetCoreService\WcfAspNetCoreService\obj\Debug\WcfAspNetCoreService.csproj.CoreCompileInputs.cache
+C:\Mod Test\WcfAspNetCoreService\WcfAspNetCoreService\obj\Debug\WcfAspNetCoreService.dll
+C:\Mod Test\WcfAspNetCoreService\WcfAspNetCoreService\obj\Debug\WcfAspNetCoreService.pdb

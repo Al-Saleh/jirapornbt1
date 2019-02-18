@@ -1,0 +1,33 @@
+﻿@model PrimeServiceReference.Primes
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <div>
+
+        <label>Prime Index : @Html.DisplayFor(model => model.Index)</label>
+        <br />
+        <label>Prime Number : @Html.DisplayFor(model => model.PrimeNumber)</label>
+        <br />
+        <br />
+</div>
+
+    
+    <form asp-controller="Prime" asp-action="GetPrimeByIndex" method="post">
+        <label>Enter prime index</label>
+        <input type="text" name="PrimeIndex" placeholder="Prime index..." />
+        <br /><br />
+        <input type='submit' name='PrimeBtn' value='Find Prime' style="width:100px;">
+    </form>
+</body>
+</html>

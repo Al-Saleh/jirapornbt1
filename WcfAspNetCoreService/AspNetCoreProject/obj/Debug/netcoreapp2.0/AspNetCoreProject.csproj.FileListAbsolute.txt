@@ -1,0 +1,16 @@
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\obj\Debug\netcoreapp2.0\AspNetCoreProject.csproj.CoreCompileInputs.cache
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\obj\Debug\netcoreapp2.0\AspNetCoreProject.AssemblyInfoInputs.cache
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\obj\Debug\netcoreapp2.0\AspNetCoreProject.AssemblyInfo.cs
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\obj\Debug\netcoreapp2.0\AspNetCoreProject.dll
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\obj\Debug\netcoreapp2.0\AspNetCoreProject.pdb
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\bin\AspNetCoreProject.deps.json
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\bin\AspNetCoreProject.runtimeconfig.json
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\bin\AspNetCoreProject.runtimeconfig.dev.json
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\bin\AspNetCoreProject.dll
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\bin\AspNetCoreProject.pdb
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\obj\Debug\netcoreapp2.0\AspNetCoreProject.csprojResolveAssemblyReference.cache
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\bin\Debug\netcoreapp2.0\AspNetCoreProject.deps.json
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\bin\Debug\netcoreapp2.0\AspNetCoreProject.runtimeconfig.json
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\bin\Debug\netcoreapp2.0\AspNetCoreProject.runtimeconfig.dev.json
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\bin\Debug\netcoreapp2.0\AspNetCoreProject.dll
+C:\Mod Test\WcfAspNetCoreService\AspNetCoreProject\bin\Debug\netcoreapp2.0\AspNetCoreProject.pdb
